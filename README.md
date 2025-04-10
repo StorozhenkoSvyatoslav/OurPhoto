@@ -9,16 +9,28 @@ OurPhotos — это небольшое Android‑приложение, напи
 Отображение ленты фотографий, полученных от других пользователей.
 
 # Стек технологий
+
 Клиент (Android)
+
 Язык: Kotlin
+
 UI‑фреймворк: Jetpack Compose
+
 Работа с сетью: Retrofit
+
 Работа с изображениями: Coil
+
 Загрузка изображения с камеры: CameraX
 
 # Backend
+
 Язык: Kotlin
+
 Фреймворк: Spring Boot
+
 База данных: PostgreSQL
+
 Формат передачи данных: JSON + Multipart/form-data для загрузки изображений
+
 Документация API: OpenAPI (Swagger)
+
